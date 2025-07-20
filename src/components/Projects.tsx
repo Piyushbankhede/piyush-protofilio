@@ -6,11 +6,11 @@ const Projects: React.FC = () => {
 
   const projects = [
     {
-      title: 'AWS EKS Cluster Setup',
-      description: 'Automated Kubernetes cluster deployment on AWS with Terraform',
-      tech: ['AWS', 'Terraform', 'Kubernetes'],
+      title: ' CI/CD Pipeline with AWS, Terraform, Ansible, Docker, Jenkins, and Kubernetes',
+      description: 'End-to-end CI/CD pipeline with DevOps tools',
+      tech: ['AWS', 'Terraform', 'Kubernetes','Jenkins','Ansible'],
       category: 'AWS',
-      github: 'https://github.com/Piyushbankhede',
+      github: 'https://github.com/Piyushbankhede/DevOps-project.git',
     },
     {
       title: 'CI/CD Pipeline with Jenkins',
@@ -29,23 +29,23 @@ const Projects: React.FC = () => {
     {
       title: 'Infrastructure as Code',
       description: 'Complete AWS infrastructure provisioning with Terraform',
-      tech: ['Terraform', 'AWS', 'VPC'],
+      tech: ['Terraform', 'AWS', 'VPC','ALB','Autoscaling','Security Group'],
       category: 'Terraform',
-      github: 'https://github.com/Piyushbankhede',
+      github: 'https://github.com/Piyushbankhede/terraform-project.git',
+    },
+    {
+      title: 'Shell Script ',
+      description: 'Script to list AWS resources by service region.',
+      tech: ['Shell Script', 'Bash', 'AWS'],
+      category: 'Monitoring',
+      github: 'https://github.com/Piyushbankhede/shellScript-project.git',
     },
     {
       title: 'Monitoring Stack',
       description: 'Prometheus and Grafana monitoring setup for Kubernetes',
       tech: ['Prometheus', 'Grafana', 'Kubernetes'],
       category: 'Monitoring',
-      github: 'https://github.com/Piyushbankhede',
-    },
-    {
-      title: 'Monitoring Stack',
-      description: 'Prometheus and Grafana monitoring setup for Kubernetes',
-      tech: ['Prometheus', 'Grafana', 'Kubernetes'],
-      category: 'Monitoring',
-      github: 'https://github.com/Piyushbankhede',
+      github: 'https://github.com/Piyushbankhede/kubernetes-monitoring.git',
     },
     {
       title: 'Monitoring Stack',
