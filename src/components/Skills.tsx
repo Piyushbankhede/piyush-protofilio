@@ -15,6 +15,11 @@ const Skills: React.FC = () => {
     { name: 'Shell Script', icon: Code, level: 85 },
     { name: 'Prometheus', icon: Monitor, level: 70 },
     { name: 'Grafana', icon: Monitor, level: 75 },
+    { name: 'Argocd', icon: Monitor, level: 80 },
+    { name: 'Trivy', icon: Monitor, level: 90 },
+    { name: 'SonarQube', icon: Monitor, level: 75 }
+    ,
+    
   ];
 
   return (
