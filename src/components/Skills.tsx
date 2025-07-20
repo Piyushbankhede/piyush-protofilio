@@ -17,7 +17,7 @@ const Skills: React.FC = () => {
     { name: 'Grafana', icon: Monitor, level: 75 },
     { name: 'Argocd', icon: Monitor, level: 80 },
     { name: 'Trivy', icon: Monitor, level: 90 },
-    { name: 'SonarQube', icon: Monitor, level: 75 }
+    { name: 'Owasp', icon: Monitor, level: 75 }
     ,
     
   ];
