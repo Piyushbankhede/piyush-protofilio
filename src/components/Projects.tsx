@@ -13,11 +13,11 @@ const Projects: React.FC = () => {
       github: 'https://github.com/Piyushbankhede/DevOps-project.git',
     },
     {
-      title: 'CI/CD Pipeline with Jenkins',
-      description: 'Complete CI/CD pipeline for Node.js applications',
-      tech: ['Jenkins', 'Docker', 'GitHub'],
-      category: 'CI/CD',
-      github: 'https://github.com/Piyushbankhede',
+      title: 'DevSecOps tic-tac-toc',
+      description: 'Secure Tic Tac Toe Deployment with Full DevSecOps Pipeline',
+      tech: ['Jenkins ', 'Docker ',"python / flask ", 'Kubernetes'],
+      category: 'Monitoring',
+      github: 'https://github.com/Piyushbankhede/devSecOps-tic-tac-toc.git',
     },
     {
       title: 'Docker Containerization',
@@ -47,12 +47,13 @@ const Projects: React.FC = () => {
       category: 'Monitoring',
       github: 'https://github.com/Piyushbankhede/kubernetes-monitoring.git',
     },
+    
     {
-      title: 'DevSecOps tic-tac-toc',
-      description: 'Secure Tic Tac Toe Deployment with Full DevSecOps Pipeline',
-      tech: ['Jenkins ', 'Docker ',"python / flask ", 'Kubernetes'],
-      category: 'Monitoring',
-      github: 'https://github.com/Piyushbankhede/devSecOps-tic-tac-toc.git',
+      title: 'CI/CD Pipeline with Jenkins',
+      description: 'Complete CI/CD pipeline for Node.js applications',
+      tech: ['Jenkins', 'Docker', 'GitHub'],
+      category: 'CI/CD',
+      github: 'https://github.com/Piyushbankhede',
     },
     {
       title: 'Ansible Automation',
