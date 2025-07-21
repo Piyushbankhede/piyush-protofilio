@@ -48,11 +48,11 @@ const Projects: React.FC = () => {
       github: 'https://github.com/Piyushbankhede/kubernetes-monitoring.git',
     },
     {
-      title: 'Monitoring Stack',
-      description: 'Prometheus and Grafana monitoring setup for Kubernetes',
-      tech: ['Prometheus', 'Grafana', 'Kubernetes'],
+      title: 'DevSecOps tic-tac-toc',
+      description: 'Secure Tic Tac Toe Deployment with Full DevSecOps Pipeline',
+      tech: ['Jenkins ', 'Docker ',"python / flask ", 'Kubernetes'],
       category: 'Monitoring',
-      github: 'https://github.com/Piyushbankhede',
+      github: 'https://github.com/Piyushbankhede/devSecOps-tic-tac-toc.git',
     },
     {
       title: 'Ansible Automation',
