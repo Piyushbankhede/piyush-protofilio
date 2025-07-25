@@ -20,8 +20,8 @@ const Projects: React.FC = () => {
       github: 'https://github.com/Piyushbankhede/devSecOps-tic-tac-toc.git',
     },
     {
-      title: 'Docker Containerization',
-      description: 'Multi-stage Docker builds for production applications',
+      title: 'Django ToDo App with Jenkins Pipeline and Docker Deployment on AWS',
+      description: 'Django ToDo app with Jenkins and Docker deployment',
       tech: ['Docker', 'Docker Compose'],
       category: 'Docker',
       github: 'https://github.com/Piyushbankhede',
