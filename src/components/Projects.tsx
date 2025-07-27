@@ -6,18 +6,18 @@ const Projects: React.FC = () => {
 
   const projects = [
     {
-      title: ' CI/CD Pipeline with AWS, Terraform, Ansible, Docker, Jenkins, and Kubernetes',
+      title: ' Devops CI/CD Pipeline with AWS, Terraform, Ansible, Docker, Jenkins, and Kubernetes',
       description: 'End-to-end CI/CD pipeline with DevOps tools',
       tech: ['AWS', 'Terraform', 'Kubernetes','Jenkins','Ansible'],
       category: 'AWS',
       github: 'https://github.com/Piyushbankhede/DevOps-project.git',
     },
     {
-      title: 'DevSecOps tic-tac-toc',
-      description: 'Secure Tic Tac Toe Deployment with Full DevSecOps Pipeline',
-      tech: ['Jenkins ', 'Docker ',"python / flask ", 'Kubernetes'],
-      category: 'Monitoring',
-      github: 'https://github.com/Piyushbankhede/devSecOps-tic-tac-toc.git',
+      title: 'Microservice-project',
+      description: 'Streamlining Microservices with EKS, ArgoCD, and Istio',
+      tech: ['Argocd ', 'Docker '," istio ", 'Kubernetes'],
+      category: 'Gitops',
+      github: 'https://github.com/Piyushbankhede/new_project.git',
     },
     
     {
@@ -57,11 +57,11 @@ const Projects: React.FC = () => {
     },
     
     {
-      title: 'CI/CD Pipeline with Jenkins',
-      description: 'Complete CI/CD pipeline for Node.js applications',
+      title: 'CI/CD Pipeline with Jenkins Docker ',
+      description: 'Complete CI/CD pipeline for dockerise applications and push on Dockerhub',
       tech: ['Jenkins', 'Docker', 'GitHub'],
       category: 'CI/CD',
-      github: 'https://github.com/Piyushbankhede',
+      github: 'https://github.com/Piyushbankhede/Project-Docker-image-automation-using-Jenkins.gite',
     },
     {
       title: 'Ansible Automation',
