@@ -27,7 +27,7 @@ const Timeline: React.FC = () => {
       icon: Calendar,
     },
     {
-      date: 'Aug 2022',
+      date: 'Aug 2025',
       title: 'Graduated',
       company: 'Sagar Institute of Science, Tech & Engg, Bhopal',
       description: 'Bachelor of Technology',
