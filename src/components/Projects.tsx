@@ -19,13 +19,7 @@ const Projects: React.FC = () => {
       category: 'Monitoring',
       github: 'https://github.com/Piyushbankhede/devSecOps-tic-tac-toc.git',
     },
-    {
-      title: 'Django ToDo App with Jenkins Pipeline and Docker Deployment on AWS',
-      description: 'Django ToDo app with Jenkins and Docker deployment',
-      tech: ['Docker', 'Docker Compose'],
-      category: 'Docker',
-      github: 'https://github.com/Piyushbankhede',
-    },
+    
     {
       title: 'Infrastructure as Code',
       description: 'Complete AWS infrastructure provisioning with Terraform',
@@ -39,6 +33,20 @@ const Projects: React.FC = () => {
       tech: ['Shell Script', 'Bash', 'AWS'],
       category: 'Monitoring',
       github: 'https://github.com/Piyushbankhede/shellScript-project.git',
+    },
+    {
+      title: 'Django ToDo App with Jenkins Pipeline and Docker Deployment on AWS',
+      description: 'Django ToDo app with Jenkins and Docker deployment',
+      tech: ['Docker', 'Docker Compose'],
+      category: 'Docker',
+      github: 'https://github.com/Piyushbankhede',
+    },
+    {
+      title: 'DevSecOps tic-tac-toc',
+      description: 'Secure Tic Tac Toe Deployment with Full DevSecOps Pipeline',
+      tech: ['Jenkins ', 'Docker ',"python / flask ", 'Kubernetes'],
+      category: 'Monitoring',
+      github: 'https://github.com/Piyushbankhede/devSecOps-tic-tac-toc.git',
     },
     {
       title: 'Monitoring Stack',
